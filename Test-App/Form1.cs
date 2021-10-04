@@ -126,6 +126,7 @@ namespace Test_App
             fwatcher.Filter = "*.txt";
 
 
+
             fwatcher.EnableRaisingEvents = true;
         }
 
